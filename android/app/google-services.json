@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806387654527",
+    "project_id": "energize-33732",
+    "storage_bucket": "energize-33732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806387654527:android:d6cacaed6deedc36f7844a",
+        "android_client_info": {
+          "package_name": "com.sahl.energize_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806387654527-fru3gg3e2f1ortqnmpl805ctrmi36mnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBosG-T_1cP568WZkoy2eB8OhPVUmDCoEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806387654527-fru3gg3e2f1ortqnmpl805ctrmi36mnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
